@@ -11,7 +11,7 @@ public class SessionFive {
         System.out.println(str2);
 
         String H = "Hello";
-        String H1 = "hello";
+        String H1 = "hello0000";
 
         int compare = H.compareTo(H1);
         System.out.println(compare);
